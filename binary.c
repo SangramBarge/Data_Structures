@@ -1,5 +1,5 @@
 /*
-AUTHER - Sangram Barge
+AUTHOR - Sangram Barge
 Code to insert and search binary tree
 */
 #include<stdio.h>
